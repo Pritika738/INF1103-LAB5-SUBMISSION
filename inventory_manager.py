@@ -95,8 +95,44 @@ def load_inventory():
         inventory = []
         print("inventory.json not found. Starting with empty inventory.")
 
+def main():
+    print("=" * 40)
+    print("INVENTORY MANAGEMENT SYSTEM")
+    print("=" * 40)
 
-load_inventory()
-display_all()
+    load_inventory()
+
+    while True:
+        print("\n----------- MENU -----------")
+        print("1. Display All Products")
+        print("2. Add Product")
+        print("3. Update Stock")
+        print("4. Search Product")
+        print("5. Save Inventory")
+        print("6. Exit")
+        print("----------------------------")
+
+        choice = input("\nEnter option: ")
+
+        if choice == "1":
+            display_all()
+        elif choice == "2":
+            add_product()
+        elif choice == "3":
+            update_stock()
+        elif choice == "4":
+            search_product()
+        elif choice == "5":
+            save_inventory()
+        elif choice == "6":
+            print("\nSaving inventory before exit...")
+            save_inventory()
+            print("Thank you for using Inventory Management System.")
+            break
+        else:
+            print("Invalid option. Please try again.")
+
+
+main()
 
 
