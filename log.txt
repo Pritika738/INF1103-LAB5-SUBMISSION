@@ -1,0 +1,17 @@
+commit f990651fb904e462c40ff42c4456749519a10823
+Author: Pritika Ganesh Kumar <pritikaganesh.738@gmail.com>
+Date:   Thu Oct 8 10:28:33 2026 +0800
+
+    Completed inventory menu and verified JSON persistence
+
+commit 5ae85d689fb03b02b9dcf5361247589cad30fe7a
+Author: Pritika Ganesh Kumar <pritikaganesh.738@gmail.com>
+Date:   Thu Oct 8 10:21:50 2026 +0800
+
+    Implemented inventory functions and JSON loading
+
+commit 218648f09d14c41eec62003fb3b337be4b70dda3
+Author: Pritika Ganesh Kumar <pritikaganesh.738@gmail.com>
+Date:   Thu Oct 8 10:13:56 2026 +0800
+
+    Created inventory dictionaries with three products
