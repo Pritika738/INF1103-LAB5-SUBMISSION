@@ -1,3 +1,15 @@
+commit 437877b815a1a7d7ac59339335421a726b8c94bc
+Author: Pritika Ganesh Kumar <pritikaganesh.738@gmail.com>
+Date:   Thu Oct 22 20:47:52 2026 +0800
+
+    Completed Lab 6 OOP inventory system
+
+commit 545b864c323042ff68d8ada8689d0c4a56a5651b
+Author: Pritika Ganesh Kumar <pritikaganesh.738@gmail.com>
+Date:   Thu Oct 8 10:35:47 2026 +0800
+
+    Added Docker configuration and final lab files
+
 commit f990651fb904e462c40ff42c4456749519a10823
 Author: Pritika Ganesh Kumar <pritikaganesh.738@gmail.com>
 Date:   Thu Oct 8 10:28:33 2026 +0800

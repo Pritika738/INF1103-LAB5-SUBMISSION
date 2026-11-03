@@ -3,18 +3,48 @@
         "product_id": "P001",
         "name": "Laptop",
         "price": 1200.0,
-        "stock": 15
+        "stock": 15,
+        "type": "physical",
+        "weight": 2.0
     },
     {
         "product_id": "P002",
         "name": "Mouse",
         "price": 25.5,
-        "stock": 40
+        "stock": 40,
+        "type": "physical",
+        "weight": 0.1
     },
     {
         "product_id": "P003",
         "name": "Keyboard",
         "price": 45.5,
-        "stock": 10
+        "stock": 10,
+        "type": "physical",
+        "weight": 0.8
+    },
+    {
+        "product_id": "D001",
+        "name": "Antivirus Software",
+        "price": 49.99,
+        "stock": 150,
+        "type": "digital",
+        "download_size": 500.0
+    },
+    {
+        "product_id": "P01",
+        "name": "Laptop",
+        "price": 45.0,
+        "stock": 10,
+        "type": "physical",
+        "weight": 3.5
+    },
+    {
+        "product_id": "P11",
+        "name": "Security software",
+        "price": 37.0,
+        "stock": 14,
+        "type": "digital",
+        "download_size": 700.0
     }
 ]
